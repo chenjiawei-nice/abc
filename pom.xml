@@ -6,7 +6,11 @@
 
     <groupId>com.gojiayu</groupId>
     <artifactId>git-test</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>unit</module>
+    </modules>
 
 
 </project>
